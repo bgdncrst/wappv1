@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 # Config
-TOKEN = "MTM1NDc2MjM3MTY4Nzc4MDQzMg.GvAj09.tmj7-425MabHcmBj2K6XjcHlCdN__hHzbFDT0E"
+TOKEN = "MTM1NDc2MjM3MTY4Nzc4MDQzMg.G1xTeV.QsAMzs7t_vjtT93rQ0-M6ObhopiZomZhLi9z3w"
 ROLE_NAME = "sms1"
 CHANNEL_ID = 1354661396012466317
 
